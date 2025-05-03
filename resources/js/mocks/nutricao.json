@@ -1,0 +1,40 @@
+{
+    "refeicoes": [
+        {
+            "nome": "🥞 Café da manhã",
+            "receitas": [
+                {
+                    "nome": "Omelete Proteico 🍳",
+                    "ingredientes": [
+                        "2 claras",
+                        "1 gema",
+                        "tomate",
+                        "cebola",
+                        "queijo"
+                    ]
+                },
+                {
+                    "nome": "Vitamina de Banana e Aveia 🍌🥛",
+                    "ingredientes": [
+                        "Leite desnatado",
+                        "banana",
+                        "2 colheres de aveia"
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "🍏 Lanche da Manhã",
+            "receitas": [
+                {
+                    "nome": "Iogurte Natural com Granola 🥣",
+                    "ingredientes": [
+                        "Iogurte desnatado",
+                        "granola",
+                        "mel"
+                    ]
+                }
+            ]
+        }
+    ]
+}

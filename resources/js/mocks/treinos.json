@@ -1,0 +1,13 @@
+{
+    "treinos": [
+        {
+            "dataIniciado": "2025-05-03 10:10:10",
+            "dataFinalizado": "2025-05-03 20:20:20",
+            "tipo": "Supino Reto",
+            "concluido": true,
+            "detalhes": {
+                "descricao": "5 séries de 15 repetições cada. Iniciar com 5kg e aumentar conforme possível"
+            }
+        } 
+    ]
+} 
